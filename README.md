@@ -6,23 +6,27 @@ An index of liturgical web apps and repositories. An early work in progress, edi
 ### [Mission St Clare](https://www.missionstclare.com/english/index.html)
 One of the first daily office generators.
 
+### [Oremus](http://oremus.org/)
+Daily Offices from the 1662 prayer book and common worship.
+
 ### [dailyoffice2019](https://www.dailyoffice2019.com)
+Cutomizable daily office generator for the 2019 BCP.
+
 [repo](https://github.com/blocher/dailyoffice2019)
 
-Cutomizable daily office generator for the 2019 BCP
-
 ### [bcp2019](https://bcp2019.com/)
-[old repo] (https://github.com/frpaulas/iphod2)
 Daily office generator for the 2019 BCP
 
-### https://dailyoffice.wordpress.com/
+[repo](https://github.com/frpaulas/iphod) Last updated November 2018
+
+### [Wordpress Daily Office](https://dailyoffice.wordpress.com/)
 Wordpress-hosted (manually created?) daily office.
 
 ### [dailyoffice.app](https://dailyoffice.app/)
 Daily office PWA made by the Gregorians.
 
-### [Common Worship Daily Prayer](https://www.churchofengland.org/prayer-and-worship/join-us-service-daily-prayer)
-By the Church of England. Also the [Time to Pray App](https://www.chpublishing.co.uk/apps/time-to-pray)
+### [Daily Prayer](http://daily.commonworship.com/)
+By the Church of England. Includes a contemporary form from Common Worship, and a traditional form from the 1662 prayer book. They also publish the [Time to Pray App](https://www.chpublishing.co.uk/apps/time-to-pray)
 
 ### [episcopalnet](http://www.episcopalnet.org/)
 Daily offices from the 1928 prayer book.
@@ -39,42 +43,79 @@ An experiment in shortening the Daily office
 ### [Liturgy of the Hours](https://prayer.infopanel.org)
 An experiment in shortening the Daily office. [repo](https://github.com/iethree/liturgy-of-the-hours)
 
-### https://github.com/rynstwrt/Morning-Prayer-Generator
-Android App, last updated 2 years ago
+### [Morning Prayer Generator](https://github.com/rynstwrt/Morning-Prayer-Generator)
+Android App.
+
+_last updated 2 years ago_
 
 ### [DigitalBCP](https://github.com/toddfoster/digitalbcp)
-last commit 8 years ago.
+_last updated 2012_
 
 
 ## Lectionary / Calendar
 
-### https://github.com/reubenlillie/daily-office
-json data for the revised common lectionary
-### https://github.com/toddfoster/lectionary
-### https://github.com/revdave33/lectionary
-### https://github.com/wfwalker/lectionaryclock
-### https://github.com/paulburton0/EpiscopalLiturgicalCalendar
-### https://github.com/peckrob/EpiscopalDate
-### https://github.com/Renddslow/bcp-daily-office
+### [Reuben Lillie's RCL](https://github.com/reubenlillie/daily-office)
+json data for the RCL
+
+### [Todd Foster's Lectionary](https://github.com/toddfoster/lectionary)
+browser-based lectionary display, last updated 2011
+
+### [RevDave's RCL](https://github.com/revdave33/lectionary)
+javascript package to get RCL lectionary week names. [npm](https://www.npmjs.com/package/lectionary)
+
+_last updated 2014_
+
+### [Episcopal Liturgical Calendar](https://github.com/paulburton0/EpiscopalLiturgicalCalendar)
+script that produces an .ics file with liturgical calendar events
+
+### [Episcopal Date](https://github.com/peckrob/EpiscopalDate)
+php class that calculates dates of the liturgical year
+
+[composer package](https://packagist.org/packages/peckrob/episcopaldate)
+
+### [bcp-daily-office](https://github.com/Renddslow/bcp-daily-office)
+simple js web server API
+
 ### [Vanderbilt RCL](https://lectionary.library.vanderbilt.edu/)
+Revised Common Lectionary calendars and readings
+
 ### [Lectionary Page](http://lectionarypage.net/)
-### https://www.dailylectio.net
+Lectionary readings: includes RCL, and 1979 Daily office readings.
+
+### [dailyLectio](https://www.dailylectio.net)
+Daily Readings from the RCL
+
 ### [Satucket](http://satucket.com/lectionary/)
-### [Episopal Church](https://episcopalchurch.org/lectionary-calendar)
+RCL Lectionary Readings
+
+### [Episcopal Church](https://episcopalchurch.org/lectionary-calendar)
+Calendar of RCL and Lesser feast/fasts.
 
 ## Data
 
-### https://www.bcponline.org/ 
+### [BCP online](https://www.bcponline.org/)
 [repos](https://github.com/bcponline)
 Complete HTML formatted BCPs 1892, 1928 and 1976
 
-### http://bcp2019.anglicanchurch.net/index.php/downloads/
+### [2019 bcp](http://bcp2019.anglicanchurch.net/index.php/downloads/)
 2019 BCP in pdf and docx formats
 
-### http://justus.anglican.org/resources/bcp/
+### [bcp1662](https://www.eskimo.com/~lhowell/bcp1662/)
+The 1662 English prayer book. [repo](https://github.com/eddsalkield/bcp-parser)
+
+### [Justus](http://justus.anglican.org/resources/bcp/)
 Historical Prayer Books from many countries.
 
-### https://github.com/santeyio/st-andrews-psalter
+### [bcp2019 data](https://github.com/bryanlilly/bcp2019-data)
+2019 BCP data as typeScript objects.
 
-### https://github.com/bryanlilly/bcp2019-data
+### [st-andrews-psalter](https://github.com/santeyio/st-andrews-psalter)
+the Coverdale Psalter put to modified Gregorian tones
+
+## Other
+
+### [lectionary clock](https://github.com/wfwalker/lectionaryclock)
+Circular time visualization of the Christian lectionary using SVG
+
+Last updated 2016
 
