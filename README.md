@@ -1,8 +1,6 @@
 # liturgy-apps
 An index of liturgical web apps and repositories. An early work in progress, edits and contributions very welcome!
 
----
-
 ## Daily Office Apps
 
 - **[Mission St Clare](https://www.missionstclare.com/english/index.html)** One of the first daily office generators.
