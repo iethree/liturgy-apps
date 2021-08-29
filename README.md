@@ -31,6 +31,9 @@ An index of liturgical web apps and repositories. An early work in progress, edi
 
 - **[DigitalBCP](https://github.com/toddfoster/digitalbcp)** _last updated 2012_
 
+- **[Sing the Office](https://singtheoffice.com/)** sung daily office
+
+- **[Scriptural BCP](https://cwtc.gitlab.io/scriptural-bcp/index.html)** comprehensive scripture cross references for the 1662 bcp
 
 ## Lectionary / Calendar
 
@@ -73,4 +76,6 @@ An index of liturgical web apps and repositories. An early work in progress, edi
 ## Other
 
 - **[lectionary clock](https://github.com/wfwalker/lectionaryclock)** Circular time visualization of the Christian lectionary using SVG _Last updated 2016_
+
+- **[book-of-common-prayer](https://a-coles.github.io/projects/book-of-common-prayer.html)** a LaTeX package for the typesetting of liturgical documents in the style of the 1979 Book of Common Prayer
 
