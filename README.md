@@ -1,5 +1,5 @@
 # liturgy-apps
-An index of liturgical web apps and repositories. An early work in progress, edits and contributions very welcome!
+An index of liturgical web apps and repositories. Edits and contributions very welcome!
 
 ## Daily Office Apps
 
@@ -34,6 +34,7 @@ An index of liturgical web apps and repositories. An early work in progress, edi
 - **[Sing the Office](https://singtheoffice.com/)** sung daily office
 
 - **[Scriptural BCP](https://cwtc.gitlab.io/scriptural-bcp/index.html)** comprehensive scripture cross references for the 1662 bcp
+- **[The Trinity Mission](https://thetrinitymission.org/)** Daily Office in audio and text
 
 ## Lectionary / Calendar
 
