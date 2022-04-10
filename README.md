@@ -34,7 +34,10 @@ An index of liturgical web apps and repositories. Edits and contributions very w
 - **[Sing the Office](https://singtheoffice.com/)** sung daily office
 
 - **[Scriptural BCP](https://cwtc.gitlab.io/scriptural-bcp/index.html)** comprehensive scripture cross references for the 1662 bcp
+
 - **[The Trinity Mission](https://thetrinitymission.org/)** Daily Office in audio and text
+
+- **[dailyoffice1662](https://dailyoffice1662.com/)** Daily Office from the 1662 International Edition Prayer Book
 
 ## Lectionary / Calendar
 
